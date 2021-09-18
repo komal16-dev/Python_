@@ -1,0 +1,22 @@
+def Convert(string):
+	list1=[]
+	list1[:0]=string
+	return list1
+
+def Remove(list1):
+	final_list = []
+	for num in list1:
+		if num not in final_list:
+			final_list.append(num)
+	return final_list
+
+def listToString(s):
+	final = ""
+	for ele in out:
+		final += ele
+	return final
+		
+str1=input("Enter:")
+list1 = Convert(str1)
+out = Remove(list1)
+print(listToString(out))
