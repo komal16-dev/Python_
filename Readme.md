@@ -14,6 +14,6 @@ This Repo containes all basic python programs and algorithms
 Clone the project
 
 ```bash
-  git clone https://github.com/atharva21-stack/Python_
+  git clone https://github.com/
 ```
 
